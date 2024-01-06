@@ -10,7 +10,7 @@ import 'moment/min/locales';
 export class AppComponent {
 
   constructor() {
-    moment.locale('pt-br');
+    moment.locale('en');
   }
 
 }
