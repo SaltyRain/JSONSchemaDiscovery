@@ -6,18 +6,17 @@
 }
 
 .app-mat-spinner{
-	height: 32px;
-    width: 32px;
-}
-
-.app-mat-spinner svg{
-	height: 100% !important;
+    height: 100% !important;
     width: 100% !important;
+    > svg {
+      height: 100% !important;
+      width: 100% !important;
+    }
 }
 
 .mat-mini-fab{
 	margin: 5px;
-}	
+}
 
 .mat-list{
 	margin-right: 80px;
